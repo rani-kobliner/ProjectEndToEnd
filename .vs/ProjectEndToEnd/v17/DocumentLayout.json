@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\dal\\services\\managequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|solutionrelative:dal\\services\\managequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\dal\\models\\queuelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|solutionrelative:dal\\models\\queuelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\dal\\models\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|solutionrelative:dal\\models\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectEndToEnd\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F47C98-F789-4066-991E-6C44FC64328B}|ProjectEndToEnd\\server.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\projectendtoend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F47C98-F789-4066-991E-6C44FC64328B}|ProjectEndToEnd\\server.csproj|solutionrelative:projectendtoend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F47C98-F789-4066-991E-6C44FC64328B}|ProjectEndToEnd\\server.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\projectendtoend\\server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{92F47C98-F789-4066-991E-6C44FC64328B}|ProjectEndToEnd\\server.csproj|solutionrelative:projectendtoend\\server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\dal\\dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|solutionrelative:dal\\dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueList.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\models\\QueueList.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\QueueList.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\models\\QueueList.cs",
+              "RelativeToolTip": "Dal\\models\\QueueList.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:23:58.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageQueue.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Services\\ManageQueue.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\ManageQueue.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Services\\ManageQueue.cs",
+              "RelativeToolTip": "Dal\\Services\\ManageQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:17:56.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectEndToEnd\\Program.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\Program.cs",
+              "RelativeToolTip": "ProjectEndToEnd\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:23:02.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProjectEndToEnd\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProjectEndToEnd\\Controllers\\WeatherForecastController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:23:01.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "server",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\server.csproj",
+              "RelativeDocumentMoniker": "ProjectEndToEnd\\server.csproj",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\server.csproj",
+              "RelativeToolTip": "ProjectEndToEnd\\server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T10:22:59.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bl.csproj",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Bl\\Bl.csproj",
+              "RelativeDocumentMoniker": "Bl\\Bl.csproj",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Bl\\Bl.csproj",
+              "RelativeToolTip": "Bl\\Bl.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T10:22:47.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbClass.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\models\\dbClass.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\dbClass.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\models\\dbClass.cs",
+              "RelativeToolTip": "Dal\\models\\dbClass.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:39:52.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dal.csproj",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Dal.csproj",
+              "RelativeDocumentMoniker": "Dal\\Dal.csproj",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Dal.csproj",
+              "RelativeToolTip": "Dal\\Dal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T09:19:49.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dal",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Dal.csproj",
+              "RelativeDocumentMoniker": "Dal\\Dal.csproj",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Dal.csproj",
+              "RelativeToolTip": "Dal\\Dal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T09:14:03.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

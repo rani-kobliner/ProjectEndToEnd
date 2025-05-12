@@ -1,0 +1,12 @@
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\bin\Debug\net8.0\Bl.deps.json
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\bin\Debug\net8.0\Bl.dll
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\bin\Debug\net8.0\Bl.pdb
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\Bl.sourcelink.json
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\Bl.dll
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\refint\Bl.dll
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\Bl.pdb
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\ref\Bl.dll
