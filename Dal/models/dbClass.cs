@@ -25,6 +25,8 @@ public partial class dbClass : DbContext
 
     public virtual DbSet<QueueList> QueueLists { get; set; }
 
+    public virtual DbSet<RegisteredPatient> RegisteredPatients { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
         => optionsBuilder.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename='H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\Data\\DataBase.mdf';Integrated Security=True;Connect Timeout=30");
@@ -145,6 +147,23 @@ public partial class dbClass : DbContext
                 .HasForeignKey(d => d.OptometrisId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Queue_List_ToTable");
+        });
+
+        modelBuilder.Entity<RegisteredPatient>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Register__3214EC076D4CB16E");
+
+            entity.Property(e => e.Id)
+                .HasMaxLength(9)
+                .IsFixedLength()
+                .UseCollation("SQL_Latin1_General_CP1_CI_AS");
+            entity.Property(e => e.Name)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .UseCollation("SQL_Latin1_General_CP1_CI_AS");
+            entity.Property(e => e.Password)
+                .HasMaxLength(50)
+                .UseCollation("SQL_Latin1_General_CP1_CI_AS");
         });
 
         OnModelCreatingPartial(modelBuilder);

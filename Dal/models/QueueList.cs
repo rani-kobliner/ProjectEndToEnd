@@ -5,10 +5,9 @@ namespace Dal.models;
 
 public partial class QueueList
 {
-    private static int _currentId = 0; 
+    private static int _currentId = 0;
 
     public int Id { get; set; }
-
     public DateOnly Date { get; set; }
 
     public TimeOnly Hour { get; set; }
@@ -19,7 +18,8 @@ public partial class QueueList
 
     public virtual Optometrist Optometris { get; set; } = null!;
 
-    public QueueList(DateOnly date, TimeOnly hour, bool available, string optometrisId)
+    public QueueList( DateOnly date, TimeOnly hour, bool available,
+        string optometrisId)
     {
         Id = _currentId++;
         Date = date;
@@ -27,9 +27,10 @@ public partial class QueueList
         Available = available;
         OptometrisId = optometrisId;
     }
+
     public static void ResetId()
     {
         _currentId = 0;
     }
-}
 
+}

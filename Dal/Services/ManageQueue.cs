@@ -16,7 +16,7 @@ namespace Dal.Services
             _context = context;
         }
 
-        public void FillQueueList(string optometristId, TimeOnly startTime, bool available)
+        public void FillQueueList(string optometristId, bool available)
         {
             DateTime startDate = new DateTime(DateTime.Now.Year, 1, 1);
             DateTime endDate = new DateTime(DateTime.Now.Year, 12, 31);
@@ -66,7 +66,12 @@ namespace Dal.Services
             {
                 _context.QueueLists.RemoveRange(existingQueues);
             }
-            
+
+            TimeOnly workStart = new TimeOnly(9, 0); // 09:00
+            TimeOnly workEnd = new TimeOnly(19, 0);   // 19:00
+            TimeOnly breakStart = new TimeOnly(14, 0); // 14:00
+            TimeOnly breakEnd = new TimeOnly(16, 0);   // 16:00
+
             for (DateTime date = startDate; date <= endDate; date = date.AddDays(1))
             {
                 // בדוק אם התאריך הוא יום שבת, יום שישי, יום שלישי או אחד מהחגים
@@ -77,16 +82,23 @@ namespace Dal.Services
                     continue; // דלג על היום הזה
                 }
 
-                QueueList queue = new QueueList(
-                    DateOnly.FromDateTime(date),
-                    startTime,
-                    available,
-                    optometristId
-                );
+                for (TimeOnly time = workStart; time < workEnd; time = time.AddMinutes(30))
+                {
+                    // דלג על שעות ההפסקה
+                    if (time >= breakStart && time < breakEnd)
+                    {
+                        continue;
+                    }
 
-                _context.QueueLists.Add(queue);
+                    QueueList queue = new QueueList(
+                        DateOnly.FromDateTime(date),
+                        time,
+                        available,
+                        optometristId
+                    );
 
-                _context.QueueLists.Add(queue);
+                    _context.QueueLists.Add(queue);
+                }
             }
         }
     }

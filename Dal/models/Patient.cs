@@ -15,15 +15,15 @@ public partial class Patient
 
     public string Gender { get; set; } = null!;
 
-    public string Hmo { get; set; } = null!;
+    public HmoType Hmo { get; set; }
 
     public DateOnly? LastVisit { get; set; }
 
-    public virtual ICollection<PatientsAppointment> PatientsAppointments 
-    { get; set; } = new List<PatientsAppointment>();
+    public virtual ICollection<PatientsAppointment> PatientsAppointments { get; set; }
+        = new List<PatientsAppointment>();
 
-    public Patient(string id ,string firstName ,string lastName , DateOnly birthdayDate , 
-        string gender ,string hmo , DateOnly lastVisit)
+    public Patient(string id, string firstName, string lastName, DateOnly birthdayDate,
+        string gender, HmoType hmo)
     {
         Id = id;
         FirstName = firstName;
@@ -31,6 +31,5 @@ public partial class Patient
         BirthdayDate = birthdayDate;
         Gender = gender;
         Hmo = hmo;
-        LastVisit = lastVisit;
     }
 }

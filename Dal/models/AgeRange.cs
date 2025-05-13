@@ -9,10 +9,10 @@ public partial class AgeRange
 
     public string Age { get; set; } = null!;
 
-    public virtual ICollection<Optometrist> Optometrists { get; set; } =
+    public virtual ICollection<Optometrist> Optometrists { get; set; } = 
         new List<Optometrist>();
 
-    public AgeRange(int id,string age)
+    public AgeRange(int id, string age)
     {
         Id = id;
         Age = age;

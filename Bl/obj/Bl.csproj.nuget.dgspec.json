@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Bl\\Bl.csproj": {}
+    "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Bl\\Bl.csproj": {}
   },
   "projects": {
-    "H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Bl\\Bl.csproj": {
+    "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Bl\\Bl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Bl\\Bl.csproj",
+        "projectUniqueName": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Bl\\Bl.csproj",
         "projectName": "Bl",
-        "projectPath": "H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Bl\\Bl.csproj",
-        "packagesPath": "C:\\Users\\קובלינר רני בתיה\\.nuget\\packages\\",
-        "outputPath": "H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Bl\\obj\\",
+        "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Bl\\Bl.csproj",
+        "packagesPath": "C:\\Users\\celia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Bl\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\קובלינר רני בתיה\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\celia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\Dal.csproj": {
-                "projectPath": "H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\Dal.csproj"
+              "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\Dal.csproj": {
+                "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\Dal.csproj"
               }
             }
           }
@@ -73,21 +68,17 @@
         }
       }
     },
-    "H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\Dal.csproj": {
+    "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\Dal.csproj",
+        "projectUniqueName": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\Dal.csproj",
         "projectName": "Dal",
-        "projectPath": "H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\Dal.csproj",
-        "packagesPath": "C:\\Users\\קובלינר רני בתיה\\.nuget\\packages\\",
-        "outputPath": "H:\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\obj\\",
+        "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\Dal.csproj",
+        "packagesPath": "C:\\Users\\celia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\Dal\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\קובלינר רני בתיה\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\celia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +86,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

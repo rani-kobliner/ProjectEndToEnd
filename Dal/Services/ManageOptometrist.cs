@@ -18,7 +18,7 @@ namespace Dal.Services
         public void addOptometrist(string id, string firstName, string lastName,
             string gender, int specializationByAge)
         {
-            Optometrist o = new Optometrist(id, firstName, lastName,gender, specializationByAge);
+            Optometrist o = new Optometrist(id, firstName, lastName, gender, specializationByAge);
             _context.Optometrists.Add(o);
 
         }
@@ -31,13 +31,5 @@ namespace Dal.Services
             }
         }
 
-        //public void updateOptometrist(string id)
-        //{
-        //    Optometris o = _context.Optometrists.Find(id);
-        //    if (o != null)
-        //    {
-        //        _context.Remove(o);
-        //    }
-        //}
     }
 }

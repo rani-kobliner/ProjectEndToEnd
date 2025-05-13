@@ -10,3 +10,7 @@ H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\Bl.dll
 H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\refint\Bl.dll
 H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\Bl.pdb
 H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\ref\Bl.dll
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\bin\Debug\net8.0\Dal.dll
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\bin\Debug\net8.0\Dal.pdb
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date

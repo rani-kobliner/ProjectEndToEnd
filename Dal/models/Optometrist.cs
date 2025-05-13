@@ -15,13 +15,14 @@ public partial class Optometrist
 
     public int SpecializationByAge { get; set; }
 
-    public virtual ICollection<PatientsAppointment> PatientsAppointments { get; set; } = new List<PatientsAppointment>();
+    public virtual ICollection<PatientsAppointment> PatientsAppointments { get; set; } =
+        new List<PatientsAppointment>();
 
     public virtual ICollection<QueueList> QueueLists { get; set; } = new List<QueueList>();
 
     public virtual AgeRange SpecializationByAgeNavigation { get; set; } = null!;
 
-    public Optometrist(string id,string firstName,string lastName,string gender,
+    public Optometrist(string id, string firstName, string lastName, string gender,
         int specializationByAge)
     {
         Id = id;

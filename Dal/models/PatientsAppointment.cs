@@ -19,8 +19,8 @@ public partial class PatientsAppointment
 
     public virtual Patient PatientCodeNavigation { get; set; } = null!;
 
-    public PatientsAppointment(int id , string patientCode , string optometristCode ,
-        DateOnly date , TimeOnly hour)
+    public PatientsAppointment(int id, string patientCode, string optometristCode,
+        DateOnly date, TimeOnly hour)
     {
         Id = id;
         PatientCode = patientCode;
