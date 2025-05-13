@@ -8,8 +8,8 @@ namespace Dal.Api
 {
     public interface IOptometrist
     {
-        void addOptometrist(string id, string firstName, string lastName,
+        void AddOptometrist(string id, string firstName, string lastName,
             string gender, int specializationByAge);
-        void removeOptometrist(string id);
+        void RemoveOptometrist(string id);
     }
 }

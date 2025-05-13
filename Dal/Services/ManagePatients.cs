@@ -64,7 +64,6 @@ namespace Dal.Services
         public void AddPatient(string id, string fName, string lName,
             DateOnly birthday, string gender, string hmo)
         {
-
             if (Enum.TryParse<HmoType>(hmo, true, out var hmoValue))
             {
                 Patient p = new Patient(id, fName, lName, birthday, gender, hmo);

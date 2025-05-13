@@ -6,7 +6,6 @@ namespace Dal.models;
 public partial class QueueList
 {
     private static int _currentId = 0;
-
     public int Id { get; set; }
     public DateOnly Date { get; set; }
 

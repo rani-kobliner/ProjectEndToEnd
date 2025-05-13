@@ -1,4 +1,5 @@
-﻿using Dal.models;
+﻿using Dal.Api;
+using Dal.models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Dal.Services
 {
-    internal class ManageOptometrist
+    internal class ManageOptometrist : IOptometrist
     {
         private readonly dbClass _context;
 
@@ -15,14 +16,22 @@ namespace Dal.Services
         {
             _context = context;
         }
-        public void addOptometrist(string id, string firstName, string lastName,
+        public void AddOptometrist(string id, string firstName, string lastName,
             string gender, int specializationByAge)
         {
             Optometrist o = new Optometrist(id, firstName, lastName, gender, specializationByAge);
             _context.Optometrists.Add(o);
+            _context.SaveChanges();
 
         }
- 
+
+        public void RemoveOptometrist(string id)
+        {
+            Optometrist o = _context.Optometrists.Find(id) ;
+            _context.Optometrists.Remove(o);
+            _context.SaveChanges();
+        }
+
 
     }
 }
