@@ -22,14 +22,7 @@ namespace Dal.Services
             _context.Optometrists.Add(o);
 
         }
-        public void removeOptometrist(string id)
-        {
-            Optometrist o = _context.Optometrists.Find(id);
-            if (o != null)
-            {
-                _context.Remove(o);
-            }
-        }
+ 
 
     }
 }
