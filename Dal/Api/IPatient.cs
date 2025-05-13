@@ -16,8 +16,6 @@ namespace Dal.Api
         void AddPatient(string id, string fName, string lName,
             DateOnly birthday, string gender, string hmo);
         void RemovePatient(string id);
-        void UpdatePatient(string id, string hmo);
-
-
+        bool UpdatePatient(string id, string hmo);
     }
 }

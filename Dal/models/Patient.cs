@@ -6,17 +6,11 @@ namespace Dal.models;
 public partial class Patient
 {
     public string Id { get; set; } = null!;
-
     public string FirstName { get; set; } = null!;
-
     public string LastName { get; set; } = null!;
-
     public DateOnly BirthdayDate { get; set; }
-
     public string Gender { get; set; } = null!;
-
     public HmoType Hmo { get; set; }
-
     public DateOnly? LastVisit { get; set; }
 
     public virtual ICollection<PatientsAppointment> PatientsAppointments { get; set; }

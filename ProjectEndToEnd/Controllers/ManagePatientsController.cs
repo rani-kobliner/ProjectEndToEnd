@@ -58,6 +58,22 @@ namespace Dal.controllers
             }
         }
 
-        []
+        [HttpPut("UpdatePatient")]
+        public IActionResult UpdatePatient([FromQuery] string id, [FromQuery] string hmo)
+        {
+            if (!Enum.TryParse<HmoType>(hmo, true, out var parsedHmo))
+            {
+                return BadRequest("Invalid HMO type specified. Valid options are: Klalit, Macabi, Leumit, Meuhedet.");
+
+            }
+            bool p_success = _patient.UpdatePatient(id, parsedHmo.ToString());
+            if (!p_success)
+            {
+                return NotFound($"Patient with ID {id} not found.");
+
+            }
+            return Ok($"HMO {parsedHmo} has been successfully updated for patient {id}");
+            
+        }
     }
 }

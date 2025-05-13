@@ -36,6 +36,7 @@ namespace Dal.Services
                 {
                     _context.RegisteredPatients.Add(rp);
                     Console.WriteLine("Sign up successful!");
+                    _context.SaveChanges();
                 }
                 else
                 {
@@ -51,7 +52,7 @@ namespace Dal.Services
             Console.Write("Enter password: ");
             string password = Console.ReadLine();
             RegisteredPatient rp = _context.RegisteredPatients.Find(username);
-            if (rp.Password == password)
+            if (p != null && rp.Password == password)
             {
                 Console.WriteLine($"Sign in successful! Welcome {username}");
             }
@@ -69,6 +70,7 @@ namespace Dal.Services
             {
                 Patient p = new Patient(id, fName, lName, birthday, gender, hmo);
                 _context.Patients.Add(p);
+                _context.SaveChanges();
             }
             else throw new Exception("Invalid HMO type specified. Valid options are: Klalit, Macabi, Leumit, Meuhedet.");
         }
@@ -79,6 +81,8 @@ namespace Dal.Services
             if (p != null)
             {
                 _context.Patients.Remove(p);
+                _context.SaveChanges(); 
+
             }
             else
             {
@@ -86,18 +90,16 @@ namespace Dal.Services
             }
         }
 
-        public void UpdatePatient(string id, string hmo)
+        public bool UpdatePatient(string id, string hmo)
         {
             Patient p = _context.Patients.Find(id);
-            if (p != null)
+            if (p == null)
             {
-                p.Hmo = hmo;
-                _context.SaveChanges();
+                return false; 
             }
-            else
-            {
-                Console.WriteLine("User not found");
-            }
+            p.Hmo = hmo;
+            _context.SaveChanges();
+            return true;
         }
     }
 }
