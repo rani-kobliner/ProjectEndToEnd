@@ -1,0 +1,15 @@
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.deps.json
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.dll
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.pdb
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.dll
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\refint\Dal.dll
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.pdb
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\ref\Dal.dll
