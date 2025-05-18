@@ -9,11 +9,11 @@ using System.Text;
 using System.Threading.Tasks;
 using static Dal.models.Patient;
 
-namespace Dal.controllers
-{
-    [Route("api/[controller]")]
+namespace server.controllers
+{   
     [ApiController]
-
+    [Route("api/[controller]")]
+ 
     public class ManagePatientsController : ControllerBase
     {
         private readonly ILogger<ManagePatientsController> _logger;
@@ -73,7 +73,8 @@ namespace Dal.controllers
 
             }
             return Ok($"HMO {parsedHmo} has been successfully updated for patient {id}");
-            
-        }
+
+        } 
+
     }
 }

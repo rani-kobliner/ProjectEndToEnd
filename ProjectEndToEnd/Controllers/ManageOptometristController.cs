@@ -1,60 +1,57 @@
 ﻿using Dal.Api;
-using Dal.models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Bl.Api;
 
-namespace server.Controllers
+namespace server.controllers
 {
-    [Route("api/[controller]")]
+
     [ApiController]
+    [Route("api/[controller]")]
     public class ManageOptometristController : ControllerBase
     {
         private readonly ILogger<ManageOptometristController> _logger;
-        private readonly IOptometrist _optometrist;
-        public ManageOptometristController(ILogger<ManageOptometristController> logger, IOptometrist optometrist)
+        private readonly IOptometristBL _optometristBL;
+
+        public ManageOptometristController(ILogger<ManageOptometristController> logger,
+            IOptometristBL optometristBL)
         {
             _logger = logger;
-            _optometrist = optometrist;
+            _optometristBL = optometristBL;
         }
 
-        [HttpPut("addOptometrist")]
-        public IActionResult AddOptometris([FromBody] string id, string firstName, string lastName,
-            string gender, int specializationByAge)
+        [HttpPost("addOptometrist")]
+        public IActionResult AddOptometrist(
+            [FromQuery] string id,
+            [FromQuery] string firstName,
+            [FromQuery] string lastName,
+            [FromQuery] string gender,
+            [FromQuery] int specializationByAge)
         {
             try
             {
-                _optometrist.addOptometrist(id, firstName, lastName, gender, specializationByAge);
-                _logger.LogInformation("Optometrist successfully added");
+                _optometristBL.AddOptometrist(id, firstName, lastName, gender, specializationByAge);
                 return Ok("Optometrist successfully added");
-
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "An error occurred while added the Optometrist.");
-                return StatusCode(500, "Internal server error.");
+                _logger.LogError(ex, "Error adding optometrist");
+                return BadRequest(ex.Message);
             }
         }
 
-        [HttpDelete("removeOptometrist")]
-        public IActionResult removeOptometrist([FromBody] string id)
+        [HttpDelete("removeOptometrist/{id}")]
+        public IActionResult RemoveOptometrist(string id)
         {
             try
             {
-                _optometrist.removeOptometrist(id);
-                return Ok($"Optometrist with ID {id} removed successfully removed.");
-
-            }
-            catch (KeyNotFoundException)
-            {
-                return NotFound($"optometrist with ID {id} not found.");
+                _optometristBL.RemoveOptometrist(id);
+                return Ok($"Optometrist with ID {id} removed successfully.");
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "An error occurred while removing the optometrist.");
-                return StatusCode(500, "Internal server error.");
+                _logger.LogError(ex, "Error removing optometrist");
+                return BadRequest(ex.Message);
             }
-
         }
-
     }
 }

@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Dal.controllers
-{
-    [Route("api/[controller]")]
+namespace server.controllers
+{ 
     [ApiController]
+    [Route("api/[controller]")]
     internal class ManageQueueController:ControllerBase
     {
 
