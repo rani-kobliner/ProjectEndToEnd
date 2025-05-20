@@ -17,5 +17,7 @@ namespace Dal.Api
             DateOnly birthday, string gender, string hmo);
         void RemovePatient(string id);
         bool UpdatePatient(string id, string hmo);
+
+
     }
 }

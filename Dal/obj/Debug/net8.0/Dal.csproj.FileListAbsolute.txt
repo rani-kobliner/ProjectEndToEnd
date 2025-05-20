@@ -13,3 +13,42 @@ H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\refint\Da
 H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.pdb
 H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
 H:\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\celia\Desktop\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\celia\Desktop\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celia\Desktop\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\celia\Desktop\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\celia\Desktop\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\celia\Desktop\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+C:\Users\celia\Desktop\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\celia\Desktop\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\celia\Desktop\פרויקט מקצה לקצה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\celia\Desktop\‏‏תיקיה חדשה\ProjectEndToEnd\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\celia\Desktop\פרויקט מעודכן\ProjectEndToEnd\Dal\obj\Debug\net8.0\ref\Dal.dll

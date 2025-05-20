@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\ProjectEndToEnd\\server.csproj": {}
+    "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Bl\\Bl.csproj": {
+    "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Bl\\Bl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Bl\\Bl.csproj",
+        "projectUniqueName": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Bl\\Bl.csproj",
         "projectName": "Bl",
-        "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Bl\\Bl.csproj",
+        "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Bl\\Bl.csproj",
         "packagesPath": "C:\\Users\\celia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Bl\\obj\\",
+        "outputPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Bl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Dal\\Dal.csproj": {
-                "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Dal\\Dal.csproj"
+              "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Dal\\Dal.csproj": {
+                "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Dal\\Dal.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Dal\\Dal.csproj": {
+    "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Dal\\Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Dal\\Dal.csproj",
+        "projectUniqueName": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Dal\\Dal.csproj",
         "projectName": "Dal",
-        "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Dal\\Dal.csproj",
+        "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Dal\\Dal.csproj",
         "packagesPath": "C:\\Users\\celia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Dal\\obj\\",
+        "outputPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Dal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\ProjectEndToEnd\\server.csproj": {
+    "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\ProjectEndToEnd\\server.csproj",
+        "projectUniqueName": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\server.csproj",
         "projectName": "server",
-        "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\ProjectEndToEnd\\server.csproj",
+        "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\server.csproj",
         "packagesPath": "C:\\Users\\celia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\ProjectEndToEnd\\obj\\",
+        "outputPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,8 +188,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Bl\\Bl.csproj": {
-                "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\Bl\\Bl.csproj"
+              "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Bl\\Bl.csproj": {
+                "projectPath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\Bl\\Bl.csproj"
               }
             }
           }

@@ -3,13 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Dal.models;
 
-namespace Dal.Api
+namespace Bl.Api
 {
-    public interface IQueue
+    public interface IQueueBL
     {
-        void FillQueueList(string optometristId, bool available);
+        public void FillQueueList(string optometristId, bool available);
         public void AddQueue(string patientCode, DateOnly date, TimeOnly hour,
             string optometristCode);
         public void RemoveQueue(string patientCode, DateOnly date, TimeOnly hour,

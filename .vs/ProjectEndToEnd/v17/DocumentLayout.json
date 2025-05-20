@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\",
+  "WorkspaceRootPath": "C:\\Users\\celia\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\dal\\services\\managepatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|solutionrelative:dal\\services\\managepatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|c:\\users\\celia\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\bl\\services\\optometristbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|solutionrelative:bl\\services\\optometristbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\dal\\api\\ipatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|solutionrelative:dal\\api\\ipatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|c:\\users\\celia\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\bl\\api\\ioptometristbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|solutionrelative:bl\\api\\ioptometristbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ManagePatients.cs",
-              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Services\\ManagePatients.cs",
-              "RelativeDocumentMoniker": "Dal\\Services\\ManagePatients.cs",
-              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Services\\ManagePatients.cs",
-              "RelativeToolTip": "Dal\\Services\\ManagePatients.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAwwEIAAAAAAAAA",
+              "Title": "OptometristBL.cs",
+              "DocumentMoniker": "C:\\Users\\celia\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\Bl\\Services\\OptometristBL.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\OptometristBL.cs",
+              "ToolTip": "C:\\Users\\celia\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\Bl\\Services\\OptometristBL.cs",
+              "RelativeToolTip": "Bl\\Services\\OptometristBL.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:14:04.681Z",
+              "WhenOpened": "2025-05-19T17:59:04.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IPatient.cs",
-              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Api\\IPatient.cs",
-              "RelativeDocumentMoniker": "Dal\\Api\\IPatient.cs",
-              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Api\\IPatient.cs",
-              "RelativeToolTip": "Dal\\Api\\IPatient.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBEAAAAbAAAA",
+              "Title": "IOptometristBL.cs",
+              "DocumentMoniker": "C:\\Users\\celia\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\Bl\\Api\\IOptometristBL.cs",
+              "RelativeDocumentMoniker": "Bl\\Api\\IOptometristBL.cs",
+              "ToolTip": "C:\\Users\\celia\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\Bl\\Api\\IOptometristBL.cs",
+              "RelativeToolTip": "Bl\\Api\\IOptometristBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:47:54.284Z"
+              "WhenOpened": "2025-05-19T17:58:53.948Z",
+              "EditorCaption": ""
             }
           ]
         }

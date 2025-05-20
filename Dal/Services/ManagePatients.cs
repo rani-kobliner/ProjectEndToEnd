@@ -36,7 +36,6 @@ namespace Dal.Services
                 {
                     _context.RegisteredPatients.Add(rp);
                     Console.WriteLine("Sign up successful!");
-                    _context.SaveChanges();
                 }
                 else
                 {
@@ -52,7 +51,7 @@ namespace Dal.Services
             Console.Write("Enter password: ");
             string password = Console.ReadLine();
             RegisteredPatient rp = _context.RegisteredPatients.Find(username);
-            if (p != null && rp.Password == password)
+            if (rp.Password == password)
             {
                 Console.WriteLine($"Sign in successful! Welcome {username}");
             }
@@ -65,13 +64,12 @@ namespace Dal.Services
         public void AddPatient(string id, string fName, string lName,
             DateOnly birthday, string gender, string hmo)
         {
-            if (Enum.TryParse<HmoType>(hmo, true, out var hmoValue))
-            {
-                Patient p = new Patient(id, fName, lName, birthday, gender, hmo);
-                _context.Patients.Add(p);
-                _context.SaveChanges();
-            }
-            else throw new Exception("Invalid HMO type specified. Valid options are: Klalit, Macabi, Leumit, Meuhedet.");
+        //    if (Enum.TryParse<HmoType>(hmo, true, out var hmoValue))
+        //    {
+        //        Patient p = new Patient(id, fName, lName, birthday, gender, hmo);
+        //        _context.Patients.Add(p);
+        //    }
+        //    else throw new Exception("Invalid HMO type specified. Valid options are: Klalit, Macabi, Leumit, Meuhedet.");
         }
 
         public void RemovePatient(string id)
@@ -80,8 +78,6 @@ namespace Dal.Services
             if (p != null)
             {
                 _context.Patients.Remove(p);
-                _context.SaveChanges(); 
-
             }
             else
             {
@@ -94,9 +90,9 @@ namespace Dal.Services
             Patient p = _context.Patients.Find(id);
             if (p == null)
             {
-                return false; 
+                return false;
             }
-            p.Hmo = hmo;
+            //p.Hmo = hmo;
             _context.SaveChanges();
             return true;
         }

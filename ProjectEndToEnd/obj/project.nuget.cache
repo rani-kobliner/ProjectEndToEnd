@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N8iSmAUFMcs=",
+  "dgSpecHash": "no8quAHFjK0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\celia\\Desktop\\פרויקט מעודכן\\ProjectEndToEnd\\ProjectEndToEnd\\server.csproj",
+  "projectFilePath": "C:\\Users\\celia\\Desktop\\פרויקט מקצה לקצה\\ProjectEndToEnd\\server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\celia\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\celia\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
