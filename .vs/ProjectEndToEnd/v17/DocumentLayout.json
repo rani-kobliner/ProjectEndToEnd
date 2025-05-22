@@ -1,14 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\celia\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\",
+  "WorkspaceRootPath": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|c:\\users\\celia\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\bl\\services\\optometristbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|solutionrelative:bl\\services\\optometristbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/H__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_\u05DE\u05E7\u05E6\u05D4_\u05DC\u05E7\u05E6\u05D4_PROJECTENDTOEND_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.Optometrists.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|c:\\users\\celia\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\bl\\api\\ioptometristbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|solutionrelative:bl\\api\\ioptometristbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/H__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_\u05DE\u05E7\u05E6\u05D4_\u05DC\u05E7\u05E6\u05D4_PROJECTENDTOEND_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.Patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F47C98-F789-4066-991E-6C44FC64328B}|ProjectEndToEnd\\server.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\projectendtoend\\controllers\\managequeuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F47C98-F789-4066-991E-6C44FC64328B}|ProjectEndToEnd\\server.csproj|solutionrelative:projectendtoend\\controllers\\managequeuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\bl\\services\\queuebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55344F-ABA8-4007-8167-6D09602D82D0}|Bl\\Bl.csproj|solutionrelative:bl\\services\\queuebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\dal\\services\\queuedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|solutionrelative:dal\\services\\queuedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F47C98-F789-4066-991E-6C44FC64328B}|ProjectEndToEnd\\server.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\projectendtoend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F47C98-F789-4066-991E-6C44FC64328B}|ProjectEndToEnd\\server.csproj|solutionrelative:projectendtoend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\dal\\models\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FCCA2C-17B3-4315-AD10-B20ECB8F8D3D}|Dal\\Dal.csproj|solutionrelative:dal\\models\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F47C98-F789-4066-991E-6C44FC64328B}|ProjectEndToEnd\\server.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\projectendtoend\\projectendtoend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92F47C98-F789-4066-991E-6C44FC64328B}|ProjectEndToEnd\\server.csproj|solutionrelative:projectendtoend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +40,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OptometristBL.cs",
-              "DocumentMoniker": "C:\\Users\\celia\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\Bl\\Services\\OptometristBL.cs",
-              "RelativeDocumentMoniker": "Bl\\Services\\OptometristBL.cs",
-              "ToolTip": "C:\\Users\\celia\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\Bl\\Services\\OptometristBL.cs",
-              "RelativeToolTip": "Bl\\Services\\OptometristBL.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "QueueBL.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Bl\\Services\\QueueBL.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\QueueBL.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Bl\\Services\\QueueBL.cs",
+              "RelativeToolTip": "Bl\\Services\\QueueBL.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:59:04.231Z",
+              "WhenOpened": "2025-05-22T11:19:28.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageQueueController.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\Controllers\\ManageQueueController.cs",
+              "RelativeDocumentMoniker": "ProjectEndToEnd\\Controllers\\ManageQueueController.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\Controllers\\ManageQueueController.cs",
+              "RelativeToolTip": "ProjectEndToEnd\\Controllers\\ManageQueueController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwDwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:12:32.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IOptometristBL.cs",
-              "DocumentMoniker": "C:\\Users\\celia\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\Bl\\Api\\IOptometristBL.cs",
-              "RelativeDocumentMoniker": "Bl\\Api\\IOptometristBL.cs",
-              "ToolTip": "C:\\Users\\celia\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\Bl\\Api\\IOptometristBL.cs",
-              "RelativeToolTip": "Bl\\Api\\IOptometristBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "dbo.Patients [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/H__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_\u05DE\u05E7\u05E6\u05D4_\u05DC\u05E7\u05E6\u05D4_PROJECTENDTOEND_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.Patients.sql",
+              "ToolTip": "dbo.Patients [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-22T11:04:07.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueDAL.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Services\\QueueDAL.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\QueueDAL.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\Services\\QueueDAL.cs",
+              "RelativeToolTip": "Dal\\Services\\QueueDAL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:58:53.948Z",
+              "WhenOpened": "2025-05-22T11:00:22.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Optometrists [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/H__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_\u05DE\u05E7\u05E6\u05D4_\u05DC\u05E7\u05E6\u05D4_PROJECTENDTOEND_DAL_DATA_DATABASE.MDF/True/SqlTable/dbo.Optometrists.sql",
+              "ToolTip": "dbo.Optometrists [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-22T10:25:24.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbClass.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\models\\dbClass.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\dbClass.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\Dal\\models\\dbClass.cs",
+              "RelativeToolTip": "Dal\\models\\dbClass.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:23:54.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectEndToEnd\\appsettings.json",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\appsettings.json",
+              "RelativeToolTip": "ProjectEndToEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T10:04:09.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectEndToEnd\\Program.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E7\u05E6\u05D4 \u05DC\u05E7\u05E6\u05D4\\ProjectEndToEnd\\ProjectEndToEnd\\Program.cs",
+              "RelativeToolTip": "ProjectEndToEnd\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:42:05.592Z",
               "EditorCaption": ""
             }
           ]

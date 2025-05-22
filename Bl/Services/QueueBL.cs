@@ -8,7 +8,7 @@ using Dal.Api;
 
 namespace Bl.Services
 {
-    public class QueueBL
+    public class QueueBL: IQueueBL
     {
         private readonly IQueue dal;
         private readonly IOptometristBL optometristBL;

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Dal.Services
 {
-    internal class QueueDAL : IQueue
+    public class QueueDAL : IQueue
     {
         private readonly dbClass _context;
 
@@ -92,9 +92,10 @@ namespace Dal.Services
                     );
 
                     _context.QueueLists.Add(queue);
-                    _context.SaveChanges();
+                   
                 }
             }
+            _context.SaveChanges();
         }
 
         public void AddQueue(string patientCode, DateOnly date, TimeOnly hour, string optometristCode)

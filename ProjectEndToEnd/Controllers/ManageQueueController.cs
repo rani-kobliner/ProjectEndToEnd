@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace server.controllers
 { 
@@ -25,13 +26,15 @@ namespace server.controllers
         [HttpPost("addQueue")]
         public IActionResult AddQueue(
             [FromQuery] string patientCode,
-            [FromQuery] DateOnly date,
-            [FromQuery] TimeOnly hour,
+            [FromQuery] DateOnly dateP,
+            [FromQuery] string hour,
+            [FromQuery] string minute,
             [FromQuery] string optometristCode)
         {
             try
             {
-                _queueBL.AddQueue(patientCode, date, hour, optometristCode);
+                TimeOnly parsedHour = TimeOnly.Parse(hour + ":" + minute);
+                _queueBL.AddQueue(patientCode, dateP, parsedHour, optometristCode);
                 return Ok("Queue successfully added");
             }
             catch (Exception ex)
@@ -39,6 +42,28 @@ namespace server.controllers
                 _logger.LogError(ex, "Error adding queue");
                 return BadRequest(ex.Message);
             }
+        }
+
+        [HttpDelete("removeQueue")]
+        public IActionResult removeQueue(
+            [FromQuery] string patientCode,
+            [FromQuery] DateOnly dateP,
+            [FromQuery] string hour,
+            [FromQuery] string minute,
+            [FromQuery] string optometristCode)
+        {
+            try
+            {
+                TimeOnly parsedHour = TimeOnly.Parse(hour + ":" + minute);
+                _queueBL.RemoveQueue(patientCode, dateP, parsedHour, optometristCode);
+                return Ok("Queue successfully deleted");
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error removing queue");
+                return BadRequest(ex.Message);
+            }
+
         }
     }
 }
