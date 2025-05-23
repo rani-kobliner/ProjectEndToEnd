@@ -1,6 +1,7 @@
 ﻿using Dal.Api;
 using Microsoft.AspNetCore.Mvc;
 using Bl.Api;
+using Bl.Models;
 
 namespace server.controllers
 {
@@ -21,15 +22,11 @@ namespace server.controllers
 
         [HttpPost("addOptometrist")]
         public IActionResult AddOptometrist(
-            [FromQuery] string id,
-            [FromQuery] string firstName,
-            [FromQuery] string lastName,
-            [FromQuery] string gender,
-            [FromQuery] int specializationByAge)
+            [FromQuery] ManagementOptometristBL optometrist)
         {
             try
             {
-                _optometristBL.AddOptometrist(id, firstName, lastName, gender, specializationByAge);
+                _optometristBL.AddOptometrist(optometrist);
                 return Ok("Optometrist successfully added");
             }
             catch (Exception ex)

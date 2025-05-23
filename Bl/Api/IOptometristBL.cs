@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Bl.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,8 +9,7 @@ namespace Bl.Api
 {
     public interface IOptometristBL
     {
-        void AddOptometrist(string id, string firstName, string lastName, string gender, 
-            int specializationByAge);
+        void AddOptometrist(ManagementOptometristBL optometristBL);
         void RemoveOptometrist(string id);
     }
 }

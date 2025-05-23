@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Dal.models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,8 +9,7 @@ namespace Dal.Api
 {
     public interface IOptometrist
     {
-        void AddOptometrist(string id, string firstName, string lastName,
-            string gender, int specializationByAge);
+        void AddOptometrist(Optometrist optometristDAL);
         void RemoveOptometrist(string id);
     }
 }

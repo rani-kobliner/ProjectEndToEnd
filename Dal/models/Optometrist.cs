@@ -31,4 +31,11 @@ public partial class Optometrist
         Gender = gender;
         SpecializationByAge = specializationByAge;
     }
+
+    public Optometrist( string firstName, string lastName, int specializationByAge)
+    {
+        FirstName = firstName;
+        LastName = lastName;
+        SpecializationByAge = specializationByAge;
+    }
 }
